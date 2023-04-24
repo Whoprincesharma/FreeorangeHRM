@@ -1,0 +1,32 @@
+[INFO ] 23-04-2023 09:55:09.875 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 23-04-2023 09:55:14.473 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 09:55:15.180 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2023 09:55:18.878 TC002_CheckApplicationTitle - Chrome browser is launched successfully
+[INFO ] 23-04-2023 09:55:22.254 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 09:55:22.271 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2023 09:55:22.479 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2023 09:55:23.127 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2023 10:00:49.677 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 23-04-2023 10:00:53.067 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 10:00:53.777 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2023 10:00:56.801 TC002_CheckApplicationTitle - Chrome browser is launched successfully
+[INFO ] 23-04-2023 10:00:59.859 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 10:00:59.866 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2023 10:01:00.066 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2023 10:01:00.698 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2023 10:04:26.569 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 23-04-2023 10:04:30.749 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 10:04:31.471 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2023 10:04:34.576 TC002_CheckApplicationTitle - Chrome browser is launched successfully
+[INFO ] 23-04-2023 10:04:38.122 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 10:04:38.141 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2023 10:04:38.299 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2023 10:04:38.952 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2023 10:11:58.585 TC001_Login_Test - Edge browser is launched successfully
+[INFO ] 23-04-2023 10:12:02.031 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 10:12:02.920 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2023 10:12:04.385 TC002_CheckApplicationTitle - Edge browser is launched successfully
+[INFO ] 23-04-2023 10:12:08.136 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2023 10:12:08.138 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2023 10:12:08.311 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2023 10:12:09.115 TC002_CheckApplicationTitle - Browser closed successfully
